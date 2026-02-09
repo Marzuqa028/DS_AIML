@@ -55,4 +55,3 @@ random.seed(10)
 
 print(random.randint(1, 100))
 print(random.randint(1, 10))
-

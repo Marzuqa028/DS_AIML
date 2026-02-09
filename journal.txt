@@ -1,0 +1,3 @@
+Name: sumi, Goal:learn python basics
+Name: sumi, Goal:practice lists and tuples
+Name: sumi, Goal:study file handling
